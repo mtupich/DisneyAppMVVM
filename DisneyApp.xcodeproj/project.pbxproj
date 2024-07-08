@@ -16,13 +16,15 @@
 		432AA7E42C37256900FDB9DA /* CharacteresView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432AA7E32C37256900FDB9DA /* CharacteresView.swift */; };
 		432AA7E62C38249200FDB9DA /* CharacteresViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432AA7E52C38249200FDB9DA /* CharacteresViewController.swift */; };
 		432AA7E82C382BB700FDB9DA /* CharacteresViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432AA7E72C382BB700FDB9DA /* CharacteresViewModel.swift */; };
-		432AA7EA2C382C9800FDB9DA /* CharacteresDomainListDTO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432AA7E92C382C9800FDB9DA /* CharacteresDomainListDTO.swift */; };
+		432AA7EA2C382C9800FDB9DA /* CharacteresDomainListEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432AA7E92C382C9800FDB9DA /* CharacteresDomainListEntity.swift */; };
 		432AA7EC2C382CB800FDB9DA /* CharacteresListUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432AA7EB2C382CB800FDB9DA /* CharacteresListUseCase.swift */; };
 		432AA7F02C382FB500FDB9DA /* CharacteresListRepositoryProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432AA7EF2C382FB500FDB9DA /* CharacteresListRepositoryProtocol.swift */; };
 		432AA7F42C3834D800FDB9DA /* CharacteresListRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432AA7F32C3834D800FDB9DA /* CharacteresListRepository.swift */; };
-		432AA7F62C38350600FDB9DA /* CharacteresDataListDTO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432AA7F52C38350600FDB9DA /* CharacteresDataListDTO.swift */; };
+		432AA7F62C38350600FDB9DA /* CharacteresDataListEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432AA7F52C38350600FDB9DA /* CharacteresDataListEntity.swift */; };
 		432AA7F82C38351900FDB9DA /* CharacteresListService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432AA7F72C38351900FDB9DA /* CharacteresListService.swift */; };
-		432AA7FA2C38352500FDB9DA /* APIEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432AA7F92C38352500FDB9DA /* APIEndpoint.swift */; };
+		4387E8CD2C3865F700D0E66C /* CharacterCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4387E8CC2C3865F700D0E66C /* CharacterCellView.swift */; };
+		4387E8D32C389CCE00D0E66C /* NetworkError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4387E8D22C389CCE00D0E66C /* NetworkError.swift */; };
+		43FF80FA2C3C735C00C16BA0 /* CharacteresListUseCaseProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43FF80F92C3C735C00C16BA0 /* CharacteresListUseCaseProtocol.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,13 +38,15 @@
 		432AA7E32C37256900FDB9DA /* CharacteresView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteresView.swift; sourceTree = "<group>"; };
 		432AA7E52C38249200FDB9DA /* CharacteresViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteresViewController.swift; sourceTree = "<group>"; };
 		432AA7E72C382BB700FDB9DA /* CharacteresViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteresViewModel.swift; sourceTree = "<group>"; };
-		432AA7E92C382C9800FDB9DA /* CharacteresDomainListDTO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteresDomainListDTO.swift; sourceTree = "<group>"; };
+		432AA7E92C382C9800FDB9DA /* CharacteresDomainListEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteresDomainListEntity.swift; sourceTree = "<group>"; };
 		432AA7EB2C382CB800FDB9DA /* CharacteresListUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteresListUseCase.swift; sourceTree = "<group>"; };
 		432AA7EF2C382FB500FDB9DA /* CharacteresListRepositoryProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteresListRepositoryProtocol.swift; sourceTree = "<group>"; };
 		432AA7F32C3834D800FDB9DA /* CharacteresListRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteresListRepository.swift; sourceTree = "<group>"; };
-		432AA7F52C38350600FDB9DA /* CharacteresDataListDTO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteresDataListDTO.swift; sourceTree = "<group>"; };
+		432AA7F52C38350600FDB9DA /* CharacteresDataListEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteresDataListEntity.swift; sourceTree = "<group>"; };
 		432AA7F72C38351900FDB9DA /* CharacteresListService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteresListService.swift; sourceTree = "<group>"; };
-		432AA7F92C38352500FDB9DA /* APIEndpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIEndpoint.swift; sourceTree = "<group>"; };
+		4387E8CC2C3865F700D0E66C /* CharacterCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterCellView.swift; sourceTree = "<group>"; };
+		4387E8D22C389CCE00D0E66C /* NetworkError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkError.swift; sourceTree = "<group>"; };
+		43FF80F92C3C735C00C16BA0 /* CharacteresListUseCaseProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteresListUseCaseProtocol.swift; sourceTree = "<group>"; };
 		5CB0A75DE5D5759FE5486AC9 /* Pods_DisneyApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DisneyApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EC2E391754FB34FF2B54537 /* Pods-DisneyApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DisneyApp.debug.xcconfig"; path = "Target Support Files/Pods-DisneyApp/Pods-DisneyApp.debug.xcconfig"; sourceTree = "<group>"; };
 		CE2F1667BD14398EA1BC1892 /* Pods-DisneyApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DisneyApp.release.xcconfig"; path = "Target Support Files/Pods-DisneyApp/Pods-DisneyApp.release.xcconfig"; sourceTree = "<group>"; };
@@ -111,6 +115,7 @@
 		432AA7D02C371DA400FDB9DA /* Networking */ = {
 			isa = PBXGroup;
 			children = (
+				4387E8D22C389CCE00D0E66C /* NetworkError.swift */,
 			);
 			path = Networking;
 			sourceTree = "<group>";
@@ -135,8 +140,8 @@
 			isa = PBXGroup;
 			children = (
 				432AA7E12C371F5500FDB9DA /* CharacteresModule.swift */,
-				432AA7D62C371E3B00FDB9DA /* Data */,
 				432AA7D52C371E3600FDB9DA /* Domain */,
+				432AA7D62C371E3B00FDB9DA /* Data */,
 				432AA7D42C371E2E00FDB9DA /* Presentation */,
 			);
 			path = Characteres;
@@ -155,8 +160,8 @@
 		432AA7D52C371E3600FDB9DA /* Domain */ = {
 			isa = PBXGroup;
 			children = (
+				432AA7EE2C382F7F00FDB9DA /* Repository */,
 				432AA7DD2C371F0600FDB9DA /* UseCase */,
-				432AA7DC2C371EFD00FDB9DA /* Interface */,
 				432AA7DB2C371EF900FDB9DA /* Entity */,
 			);
 			path = Domain;
@@ -165,9 +170,9 @@
 		432AA7D62C371E3B00FDB9DA /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				432AA7E02C371F2C00FDB9DA /* Services */,
 				432AA7DF2C371F2300FDB9DA /* Repository */,
 				432AA7DE2C371F1C00FDB9DA /* Entity */,
-				432AA7E02C371F2C00FDB9DA /* Services */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -185,6 +190,7 @@
 			children = (
 				432AA7E32C37256900FDB9DA /* CharacteresView.swift */,
 				432AA7E52C38249200FDB9DA /* CharacteresViewController.swift */,
+				4387E8CC2C3865F700D0E66C /* CharacterCellView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -207,23 +213,16 @@
 		432AA7DB2C371EF900FDB9DA /* Entity */ = {
 			isa = PBXGroup;
 			children = (
-				432AA7E92C382C9800FDB9DA /* CharacteresDomainListDTO.swift */,
+				432AA7E92C382C9800FDB9DA /* CharacteresDomainListEntity.swift */,
 			);
 			path = Entity;
-			sourceTree = "<group>";
-		};
-		432AA7DC2C371EFD00FDB9DA /* Interface */ = {
-			isa = PBXGroup;
-			children = (
-				432AA7EE2C382F7F00FDB9DA /* Repository */,
-			);
-			path = Interface;
 			sourceTree = "<group>";
 		};
 		432AA7DD2C371F0600FDB9DA /* UseCase */ = {
 			isa = PBXGroup;
 			children = (
 				432AA7EB2C382CB800FDB9DA /* CharacteresListUseCase.swift */,
+				43FF80F92C3C735C00C16BA0 /* CharacteresListUseCaseProtocol.swift */,
 			);
 			path = UseCase;
 			sourceTree = "<group>";
@@ -231,7 +230,7 @@
 		432AA7DE2C371F1C00FDB9DA /* Entity */ = {
 			isa = PBXGroup;
 			children = (
-				432AA7F52C38350600FDB9DA /* CharacteresDataListDTO.swift */,
+				432AA7F52C38350600FDB9DA /* CharacteresDataListEntity.swift */,
 			);
 			path = Entity;
 			sourceTree = "<group>";
@@ -248,7 +247,6 @@
 			isa = PBXGroup;
 			children = (
 				432AA7F72C38351900FDB9DA /* CharacteresListService.swift */,
-				432AA7F92C38352500FDB9DA /* APIEndpoint.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -392,18 +390,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4387E8D32C389CCE00D0E66C /* NetworkError.swift in Sources */,
 				432AA7E42C37256900FDB9DA /* CharacteresView.swift in Sources */,
 				432AA7F82C38351900FDB9DA /* CharacteresListService.swift in Sources */,
 				432AA7EC2C382CB800FDB9DA /* CharacteresListUseCase.swift in Sources */,
-				432AA7EA2C382C9800FDB9DA /* CharacteresDomainListDTO.swift in Sources */,
+				432AA7EA2C382C9800FDB9DA /* CharacteresDomainListEntity.swift in Sources */,
 				432AA7F02C382FB500FDB9DA /* CharacteresListRepositoryProtocol.swift in Sources */,
-				432AA7FA2C38352500FDB9DA /* APIEndpoint.swift in Sources */,
 				432AA7E22C371F5500FDB9DA /* CharacteresModule.swift in Sources */,
 				432AA7BB2C3718D000FDB9DA /* AppDelegate.swift in Sources */,
 				432AA7E62C38249200FDB9DA /* CharacteresViewController.swift in Sources */,
 				432AA7E82C382BB700FDB9DA /* CharacteresViewModel.swift in Sources */,
 				432AA7BD2C3718D000FDB9DA /* SceneDelegate.swift in Sources */,
-				432AA7F62C38350600FDB9DA /* CharacteresDataListDTO.swift in Sources */,
+				432AA7F62C38350600FDB9DA /* CharacteresDataListEntity.swift in Sources */,
+				43FF80FA2C3C735C00C16BA0 /* CharacteresListUseCaseProtocol.swift in Sources */,
+				4387E8CD2C3865F700D0E66C /* CharacterCellView.swift in Sources */,
 				432AA7F42C3834D800FDB9DA /* CharacteresListRepository.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -17,10 +17,12 @@ extension CodeView {
 
 
 class CharacteresView: UIView {
-    
+        
     lazy var table: UITableView = {
        let table = UITableView()
-        table.backgroundColor = .green
+        table.backgroundColor = .white
+        table.translatesAutoresizingMaskIntoConstraints = false
+        table.register(CharacterCellView.self, forCellReuseIdentifier: "characterCellView")
        return table
     }()
     
@@ -42,10 +44,10 @@ extension CharacteresView: CodeView {
     
     func setupConstraints() {
         NSLayoutConstraint.activate([
-            topAnchor.constraint(equalTo: topAnchor),
-            bottomAnchor.constraint(equalTo: bottomAnchor),
-            rightAnchor.constraint(equalTo: rightAnchor),
-            leftAnchor.constraint(equalTo: leftAnchor)
+            table.topAnchor.constraint(equalTo: topAnchor),
+            table.bottomAnchor.constraint(equalTo: bottomAnchor),
+            table.rightAnchor.constraint(equalTo: rightAnchor),
+            table.leftAnchor.constraint(equalTo: leftAnchor)
         ])
     }
     

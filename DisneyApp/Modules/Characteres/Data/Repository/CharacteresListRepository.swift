@@ -1,8 +1,7 @@
-//
-//  CharacteresListRepository.swift
-//  DisneyApp
-//
-//  Created by Maria Tupich on 05/07/24.
-//
-
 import Foundation
+
+protocol CharacterRepository {
+    typealias ResultCallback = (Result<[CharacteresDomainListEntity], Error>) -> Void
+    
+    func fetchCharacters(completion: @escaping ResultCallback)
+}
