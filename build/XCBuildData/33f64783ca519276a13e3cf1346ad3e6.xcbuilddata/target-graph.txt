@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+Target 'Pods-DisneyApp' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit' in project 'Pods'
+➜ Explicit dependency on target 'Swinject' in project 'Pods'
+Target 'Swinject' in project 'Pods'
+➜ Explicit dependency on target 'Swinject-Swinject' in project 'Pods'
+Target 'Swinject-Swinject' in project 'Pods' (no dependencies)
+Target 'SnapKit' in project 'Pods' (no dependencies)

@@ -1,0 +1,53 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e987aaf61f7c48490ecb735aebd0062aacf"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e981130daa4894db4a9220537a0c61d4fd9"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98fd8290b27c9ddaae95a4883185a033f9"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98665128ea61d69e32ac596190f105b95f"
+    }
+  ],
+  "containerPath" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/mariatupich/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/mariatupich/Library/Developer/Xcode/DerivedData/Pods-dcvcxpofepbfjafygxpsqxfglsau/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mariatupich/Library/Developer/Xcode/DerivedData/Pods-dcvcxpofepbfjafygxpsqxfglsau/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

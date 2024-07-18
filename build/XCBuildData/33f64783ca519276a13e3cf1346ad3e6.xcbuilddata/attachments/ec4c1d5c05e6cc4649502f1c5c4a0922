@@ -1,0 +1,190 @@
+{
+  "" : {
+    "const-values" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/SnapKit-master.swiftconstvalues",
+    "dependencies" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/SnapKit-master.d",
+    "diagnostics" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/SnapKit-master.dia",
+    "emit-module-dependencies" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/SnapKit-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/SnapKit-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/SnapKit-master.swiftdeps"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/Constraint.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/Constraint.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/Constraint.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/Constraint.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintAttributes.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintConfig.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConfig.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConfig.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConfig.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintConstantTarget.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintDescription.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDescription.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDescription.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDescription.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintDirectionalInsets.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDirectionalInsets.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDirectionalInsets.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDirectionalInsets.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintDirectionalInsetTarget.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDirectionalInsetTarget.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDirectionalInsetTarget.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDirectionalInsetTarget.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintDSL.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDSL.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDSL.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDSL.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintInsets.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintInsets.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintInsets.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintInsets.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintInsetTarget.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintInsetTarget.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintInsetTarget.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintInsetTarget.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintItem.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintItem.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintItem.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintItem.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintLayoutGuide.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintLayoutGuide+Extensions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide+Extensions.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide+Extensions.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide+Extensions.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintLayoutGuideDSL.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintLayoutSupport.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintLayoutSupportDSL.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintMaker.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMaker.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMaker.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMaker.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintMakerEditable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintMakerExtendable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintMakerFinalizable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintMakerPriortizable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerPriortizable.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerPriortizable.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerPriortizable.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintMakerRelatable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintMultiplierTarget.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintOffsetTarget.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintOffsetTarget.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintOffsetTarget.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintOffsetTarget.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintPriority.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriority.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriority.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriority.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintPriorityTarget.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintRelatableTarget.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintRelation.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelation.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelation.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintRelation.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintView.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintView.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintView.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintView.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintView+Extensions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/ConstraintViewDSL.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/Debugging.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/Debugging.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/Debugging.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/Debugging.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/LayoutConstraint.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/LayoutConstraint.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/LayoutConstraint.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/LayoutConstraint.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/LayoutConstraintItem.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/Typealiases.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/Typealiases.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/Typealiases.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/Typealiases.o"
+  },
+  "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/Pods/SnapKit/Source/UILayoutSupport+Extensions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.o",
+    "llvm-bc" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.bc",
+    "object" : "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.o"
+  }
+}

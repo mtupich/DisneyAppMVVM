@@ -8,17 +8,10 @@ class CharacteresListUseCaseImpl: CharacteresListUseCaseProtocol {
         self.characterRepository = characterRepository
     }
     
-    func execute(completion: @escaping (Result<[CharacteresDomainListEntity], Error>) -> Void) {
+    func execute(completion: @escaping (Result<CharactersDataListEntity, Error>) -> Void) {
         characterRepository.fetchCharacters { result in
-            switch result {
-            case .success(let characterEntities):
-                let characters = characterEntities.map { CharacteresDomainListEntity(name: $0.name, imageURL: $0.imageURL)}
-                completion(.success(characters))
-            case .failure(let error):
-                completion(.failure(error))
-            }
+            completion(result)
         }
     }
-
     
 }

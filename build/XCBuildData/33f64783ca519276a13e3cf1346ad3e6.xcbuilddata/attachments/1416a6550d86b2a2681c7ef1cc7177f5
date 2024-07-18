@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Release-iphoneos/Swinject/Swinject.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/Swinject.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Release-iphoneos/Swinject/Swinject.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "Swinject-Swift.h",
+      'external-contents': "/Users/mariatupich/Desktop/projetos/Projetos_Swift/DisneyApp/build/Pods.build/Release-iphoneos/Swinject.build/unextended-interface-header.h",
+    }]
+    }]
+}
