@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_DisneyAppVersionString[];
+ extern const double Pods_DisneyAppVersionNumber;
+
+ const unsigned char Pods_DisneyAppVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_DisneyApp  PROJECT:Pods-1" "\n";
+ const double Pods_DisneyAppVersionNumber __attribute__ ((used)) = (double)1.;

@@ -1,4 +1,5 @@
 import UIKit
+import Kingfisher
 
 class CharacterCellView: UITableViewCell {
     
@@ -7,7 +8,6 @@ class CharacterCellView: UITableViewCell {
     lazy var characterImg: UIImageView = {
         let img = UIImageView()
         img.translatesAutoresizingMaskIntoConstraints = false
-        img.image = UIImage(named: "branca")
         img.contentMode = .scaleToFill
         return img
     }()
@@ -15,12 +15,11 @@ class CharacterCellView: UITableViewCell {
     lazy var characterName: UILabel = {
         let lbl = UILabel()
         lbl.translatesAutoresizingMaskIntoConstraints = false
-        lbl.text = "Branca de Neve"
         return lbl
     }()
     
     lazy var characterStack: UIStackView = {
-       let stack = UIStackView()
+        let stack = UIStackView()
         stack.translatesAutoresizingMaskIntoConstraints = false
         stack.axis = .horizontal
         stack.distribution = .fill
@@ -36,6 +35,12 @@ class CharacterCellView: UITableViewCell {
         fatalError("init(coder:) has not been implemented")
     }
     
+    func configure(with character: CharacteresDomainListEntity) {
+        characterName.text = character.name
+        if let url = URL(string: character.imageURL) {
+            characterImg.kf.setImage(with: url)
+        }
+    }
 }
 
 extension CharacterCellView: CodeView {
@@ -52,13 +57,10 @@ extension CharacterCellView: CodeView {
             characterStack.rightAnchor.constraint(equalTo: rightAnchor),
             characterStack.leftAnchor.constraint(equalTo: leftAnchor),
             
-            characterImg.widthAnchor.constraint(equalToConstant: 80),
+            characterImg.widthAnchor.constraint(equalToConstant: 120),
             characterImg.heightAnchor.constraint(equalToConstant: 80),
         ])
     }
     
     func setupAditionalConfiguration() {}
-    
-    
 }
-                                

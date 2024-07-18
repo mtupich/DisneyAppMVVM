@@ -1,3 +1,3 @@
 protocol CharacteresListUseCaseProtocol {
-    func execute(completion: @escaping (Result<[CharacteresDomainListEntity], Error>) -> Void)
+    func execute(completion: @escaping (Result<CharactersDataListEntity, Error>) -> Void)
 }
