@@ -35,7 +35,7 @@ class CharacterCellView: UITableViewCell {
         fatalError("init(coder:) has not been implemented")
     }
     
-    func configure(with character: CharacteresDomainListEntity) {
+    func configure(with character: CharactersDomainListEntity) {
         characterName.text = character.name
         if let url = URL(string: character.imageURL) {
             characterImg.kf.setImage(with: url)

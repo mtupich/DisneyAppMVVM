@@ -16,7 +16,7 @@ extension CodeView {
 }
 
 
-class CharacteresView: UIView {
+class CharactersView: UIView {
 
     lazy var table: UITableView = {
        let table = UITableView()
@@ -37,7 +37,7 @@ class CharacteresView: UIView {
     
 }
 
-extension CharacteresView: CodeView {
+extension CharactersView: CodeView {
     func buildViewHierarchy() {
         addSubview(table)
     }

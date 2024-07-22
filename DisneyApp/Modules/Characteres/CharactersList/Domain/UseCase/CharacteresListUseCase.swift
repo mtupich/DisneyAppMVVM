@@ -1,6 +1,6 @@
 import Foundation
 
-class CharacteresListUseCaseImpl: CharacteresListUseCaseProtocol {
+class CharactersListUseCaseImpl: CharactersListUseCaseProtocol {
 
     private let characterRepository: CharacterRepository
     
