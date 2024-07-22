@@ -1,7 +1,7 @@
 import Foundation
 
 // MARK: - CharactersDataListEntity
-struct CharacteresDomainListEntity {
+struct CharactersDomainListEntity {
     let name: String
     let imageURL: String
 }
