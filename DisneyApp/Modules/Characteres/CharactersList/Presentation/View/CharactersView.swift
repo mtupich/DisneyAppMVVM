@@ -17,7 +17,6 @@ extension CodeView {
 
 
 class CharactersView: UIView {
-
     lazy var table: UITableView = {
        let table = UITableView()
         table.backgroundColor = .white

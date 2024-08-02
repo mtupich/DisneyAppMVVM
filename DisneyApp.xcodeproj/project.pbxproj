@@ -21,7 +21,7 @@
 		432AA7F62C38350600FDB9DA /* CharacteresDataListEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432AA7F52C38350600FDB9DA /* CharacteresDataListEntity.swift */; };
 		43512A7E2C4EDEE700168C21 /* CharactersCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43512A7D2C4EDEE700168C21 /* CharactersCoordinator.swift */; };
 		43512A892C4EF7EC00168C21 /* CharactersDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43512A882C4EF7EC00168C21 /* CharactersDetailView.swift */; };
-		43512A8B2C4EF7FA00168C21 /* CharactersDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43512A8A2C4EF7FA00168C21 /* CharactersDetailViewModel.swift */; };
+		43512A8B2C4EF7FA00168C21 /* CharacterDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43512A8A2C4EF7FA00168C21 /* CharacterDetailViewModel.swift */; };
 		43512A8D2C4EF81500168C21 /* CharactersDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43512A8C2C4EF81500168C21 /* CharactersDetailViewController.swift */; };
 		43512A912C4EF8FF00168C21 /* CharactersDetailRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43512A902C4EF8FF00168C21 /* CharactersDetailRepository.swift */; };
 		43512A932C4EF91600168C21 /* CharactersDetailEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43512A922C4EF91600168C21 /* CharactersDetailEntity.swift */; };
@@ -50,7 +50,7 @@
 		432AA7F52C38350600FDB9DA /* CharacteresDataListEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacteresDataListEntity.swift; sourceTree = "<group>"; };
 		43512A7D2C4EDEE700168C21 /* CharactersCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharactersCoordinator.swift; sourceTree = "<group>"; };
 		43512A882C4EF7EC00168C21 /* CharactersDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharactersDetailView.swift; sourceTree = "<group>"; };
-		43512A8A2C4EF7FA00168C21 /* CharactersDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharactersDetailViewModel.swift; sourceTree = "<group>"; };
+		43512A8A2C4EF7FA00168C21 /* CharacterDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterDetailViewModel.swift; sourceTree = "<group>"; };
 		43512A8C2C4EF81500168C21 /* CharactersDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharactersDetailViewController.swift; sourceTree = "<group>"; };
 		43512A902C4EF8FF00168C21 /* CharactersDetailRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharactersDetailRepository.swift; sourceTree = "<group>"; };
 		43512A922C4EF91600168C21 /* CharactersDetailEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharactersDetailEntity.swift; sourceTree = "<group>"; };
@@ -314,22 +314,14 @@
 			children = (
 				43512A872C4EF7B700168C21 /* View */,
 				43512A862C4EF7AE00168C21 /* ViewModel */,
-				43512A852C4EF7A000168C21 /* Util */,
 			);
 			path = Presentation;
-			sourceTree = "<group>";
-		};
-		43512A852C4EF7A000168C21 /* Util */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Util;
 			sourceTree = "<group>";
 		};
 		43512A862C4EF7AE00168C21 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
-				43512A8A2C4EF7FA00168C21 /* CharactersDetailViewModel.swift */,
+				43512A8A2C4EF7FA00168C21 /* CharacterDetailViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -513,7 +505,7 @@
 				432AA7EC2C382CB800FDB9DA /* CharacteresListUseCase.swift in Sources */,
 				43512A992C4EF97300168C21 /* CharactersDetailUseCase.swift in Sources */,
 				432AA7EA2C382C9800FDB9DA /* CharactersDomainListEntity.swift in Sources */,
-				43512A8B2C4EF7FA00168C21 /* CharactersDetailViewModel.swift in Sources */,
+				43512A8B2C4EF7FA00168C21 /* CharacterDetailViewModel.swift in Sources */,
 				432AA7BB2C3718D000FDB9DA /* AppDelegate.swift in Sources */,
 				43512A9B2C4EF98300168C21 /* CharactersDetailUseCaseProtocol.swift in Sources */,
 				432AA7E62C38249200FDB9DA /* CharactersViewController.swift in Sources */,

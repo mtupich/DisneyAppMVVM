@@ -5,6 +5,7 @@ class CharactersViewModel {
     private let charactersListUseCaseImpl: CharactersListUseCaseImpl
     var characters: [CharactersDomainListEntity] = []
     var onDataUpdated: (() -> Void)?
+    var selectedCharacter: CharactersDomainListEntity?
     
     init(charactersListUseCaseImpl: CharactersListUseCaseImpl) {
         self.charactersListUseCaseImpl = charactersListUseCaseImpl
@@ -18,12 +19,14 @@ class CharactersViewModel {
                     self?.characters.append(CharactersDomainListEntity(name: item.name, imageURL: item.imageUrl ?? "teste"))
                 }
                 self?.onDataUpdated?()
-                print("passei aqui \(self?.characters)")
-                print("sucesso")
             case .failure(let error):
                 print("Erro ao buscar personagens:", error.localizedDescription)
             }
 
         }
+    }
+    
+    func selectCharacter(at index: Int) {
+        selectedCharacter = characters[index]
     }
 }
